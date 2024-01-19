@@ -1,6 +1,5 @@
 The Markovify folder contains the work on generating random Instagram captions using Markovify.
-It consists of 4 files
-Captions.txt - data used for training.
-emoji.txt - list of emojis for training.
-markovify.html - contains Code and Results which are saved in html format.
-markovify.ipynb - contains py code for the task.
+  1. Captions.txt - data used for training.
+  2.emoji.txt - list of emojis for training.
+  3.markovify.html - contains Code and Results which are saved in html format.
+  4.markovify.ipynb - contains py code for the task.
