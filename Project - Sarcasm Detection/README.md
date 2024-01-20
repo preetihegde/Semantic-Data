@@ -1,6 +1,6 @@
 We intend to build a model for Detecting Sarcasm. The Dataset focuses on headlines from reputable news sources— TheOnion for sarcastic content and HuffPost for non-sarcastic content. This approach ensures higher data quality, reduced noise, and improved contextual analysis, as the headlines are professionally written and self-contained, providing a more reliable foundation for sarcasm detection models.
 
-The Folder contains one `.ipynb` file which has code and a `.json` file which contains the dataset. We use glove.6B.50d.txt file for embedding the file is downloaded from - https://www.kaggle.com/datasets/watts2/glove6b50dtxt
+The Folder contains one `.ipynb` file which has code and a `.json` file which contains the dataset. We use glove.6B.50d.txt for embedding the file is taken from - https://www.kaggle.com/datasets/watts2/glove6b50dtxt
 
 ### Data
 Each record in the Dataset consists of three attributes:
