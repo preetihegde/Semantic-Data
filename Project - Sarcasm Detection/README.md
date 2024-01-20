@@ -4,7 +4,7 @@ We intend to build a model for Detecting Sarcasm. The Dataset focuses on headlin
 
 The Folder contains one `.ipynb` file which has code and a `.json` file which contains the dataset. We use glove.6B.50d.txt for embedding.
 >[!Tip]
->Dataset
+>Dataset -
 >https://www.kaggle.com/datasets/watts2/glove6b50dtxt
 
 ### Data
