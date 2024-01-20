@@ -2,10 +2,10 @@
 Files and projects related to Semantic Data and processing mainly with different language models
 
 ## Teammates :
-  - Dyuthi Nagaraja Kedilaya,
-  - Gurudeep Haleangadi Nagesh,
-  - Preeti Venakataraman Hegde,
-  - Ranjitha Umesh
+  - Dyuthi Nagaraja Kedilaya - 
+  - Gurudeep Haleangadi Nagesh - 
+  - Preeti Venakataraman Hegde - 5123764
+  - Ranjitha Umesh - 5123734
 
 Equal contribution (25%) by each individual for all the tasks.
 
