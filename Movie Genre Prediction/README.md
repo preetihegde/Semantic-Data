@@ -1,5 +1,5 @@
 ### Movie genre prediction 
-  - is a task in natural language processing and machine learning where algorithms are trained to classify a given movie into one or more predefined genres based on its textual information.
+  -It is a task in natural language processing and machine learning where algorithms are trained to classify a given movie into one or more predefined genres based on its textual information.
 
 ### DataSet
 `train_data.zip`  contains the training file used for this task
